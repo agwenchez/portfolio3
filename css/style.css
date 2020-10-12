@@ -54,6 +54,7 @@ body {
   overflow-x: hidden;
 }
 html {
+  scroll-behavior: smooth;
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
@@ -12175,9 +12176,9 @@ textarea.form-control {
     margin-bottom: 2em;
   }
 
-.ftco-counter {
-  margin-top: -8.6em;
-}
+  .ftco-counter {
+    margin-top: -14.5em;
+  }
 }
 .ftco-counter .icon {
   width: 60px;
