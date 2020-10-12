@@ -11575,7 +11575,7 @@ h5,
 }
 .services:hover .icon {
   background: #fff;
-  margin-left: 20px;
+  margin-left: 60px;
 }
 .services:hover .icon span {
   color: #fe8e40;
@@ -12733,69 +12733,8 @@ textarea.form-control {
     text-transform: uppercase;
     color: #fe8e40;
   }
-}
-
-/* pricing */
-/* 
-.pricing {
-  background: #333;
-  padding: 30px;
-}
-.pricing .price > span {
-  color: #cccccc;
-}
-.pricing .price > span > span {
-  font-size: 3rem;
-  color: #ff8b00;
-}
-.pricing ul li {
-  margin-bottom: 20px;
-}
-
-site-section {
-  padding: 2.5em 0;
-}
-@media (min-width: 768px) {
-  .site-section {
-    padding: 5em 0;
+  .services:hover .icon {
+    background: #fff;
+    margin-left: 100px;
   }
 }
-.site-section.site-section-sm {
-  padding: 4em 0;
-}
-.block-heading-1 span {
-  color: #b8b8b8;
-}
-.block-heading-1 span {
-  text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  font-weight: bold;
-}
-
-.block-heading-1 h2 {
-  font-size: 3rem;
-  color: #ff8b00;
-}
-
-
-.ul-check {
-  margin-bottom: 50px; }
-  .ul-check li {
-    position: relative;
-    padding-left: 35px;
-    margin-bottom: 15px;
-    line-height: 1.5; }
-    .ul-check li:before {
-      left: 0;
-      font-size: 20px;
-      top: -.3rem;
-      font-family: "icomoon";
-      content: "\e5ca";
-      position: absolute; }
-  .ul-check.white li:before {
-    color: #fff; }
-  .ul-check.success li:before {
-    color: #71bc42; }
-  .ul-check.primary li:before {
-    color: #ff8b00; } */
